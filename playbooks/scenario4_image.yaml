@@ -15,8 +15,8 @@
 
     - block:
 
-        - name: List Images
-          openstack.cloud.image_info:
+      #        - name: List Images
+      #          openstack.cloud.image_info:
 
         - name: Get single Image
           openstack.cloud.image_info:
