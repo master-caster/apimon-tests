@@ -65,3 +65,5 @@ Under CentOS7 ansible is of a very old version with some other problems. One exa
 It might be also desired to enable task tracing (timing). This can be achieved by following https://docs.ansible.com/ansible/latest/plugins/callback/profile_tasks.html and enabling profile_tasks plugin in the ansible.cfg file in this repository.
 
 dummy change
+dummy change2
+dummy change2
