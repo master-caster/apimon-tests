@@ -4,6 +4,7 @@
     check:
       jobs:
         - otc-tox-linters
+        - openstack-scs-flavor-check
     check-post:
       jobs:
         - otc-tox-linters
